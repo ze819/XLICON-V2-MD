@@ -564,7 +564,7 @@ export async function participantsUpdate({
                   )}&memberCount=${encodeURIComponent(
                     nthMember.toString()
                   )}&avatar=${encodeURIComponent(pp)}&background=${encodeURIComponent(
-                    'https://cdn.wallpapersafari.com/71/19/7ZfcpT.png'
+                    'https://telegra.ph/file/6cb137162107456485f3f.jpg'
                   )}`;
           
                   try {
@@ -617,7 +617,7 @@ export async function participantsUpdate({
                   )}&memberCount=${encodeURIComponent(
                     nthMember.toString()
                   )}&avatar=${encodeURIComponent(pp)}&background=${encodeURIComponent(
-                    'https://cdn.wallpapersafari.com/71/19/7ZfcpT.png'
+                    'https://telegra.ph/file/6cb137162107456485f3f.jpg'
                   )}`;
           
                   try {
@@ -632,7 +632,7 @@ export async function participantsUpdate({
                         title: "XLICON-V2 BOT",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW',
+                        sourceUrl: 'https://chat.whatsapp.com/JJ86q4eea763zBzSM9WzYB',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
